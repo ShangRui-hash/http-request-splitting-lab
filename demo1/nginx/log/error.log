@@ -1,0 +1,1 @@
+2024/06/13 17:15:24 [error] 24#24: *6 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 192.168.65.1, server: , request: "GET / HTTP/1.1", host: "localhost:8183"
